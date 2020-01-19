@@ -1,0 +1,4 @@
+platform:ios,'8.0'
+target "UIMenuControllerDemo" do
+# pod "TLTransitions", "~> 1.4.1"
+end
